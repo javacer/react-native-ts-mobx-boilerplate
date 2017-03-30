@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "jsx": "react",
+    "suppressImplicitAnyIndexErrors": false,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "baseUrl": ".",
+    "rootDir": ".",
+    "module": "commonjs",
+    "typeRoots": [
+      "node_modules/@types",
+      "types"
+    ]
+  }
+}
